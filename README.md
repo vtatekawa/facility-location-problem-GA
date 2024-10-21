@@ -84,15 +84,15 @@ Certifique-se de ter as seguintes dependências instaladas:
 Instale-as usando pip:
 
 ```bash
-pip install numpy pandas geopy
+pip install requirements.txt
 ```
 
 ## 🚀 Uso
 
 1. Clone este repositório e execute o notebook:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
-   cd <NOME_DO_REPOSITORIO>
+   git clone <https://github.com/vtatekawa/facility-location-problem-GA>
+   cd <facility-location-problem-GA>
    jupyter notebook FacilityLocationGeneticAlgorithm.ipynb
    ```
 
